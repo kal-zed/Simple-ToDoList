@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(46, 40, 63);
+    flex-direction: column;
+    height: 100vh;
+}
+
+h2{
+    color: white;
+}
+
+#add{
+    background-color: rgb(28, 56, 57);
+    color: aliceblue;
+    font-family: sans-serif;
+    font-size: large;
+}
+#taskContianer li {
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    display: flex;                   
+  justify-content: space-between;   
+  align-items: center;
+}
