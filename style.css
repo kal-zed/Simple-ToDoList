@@ -16,6 +16,7 @@ h2{
     color: aliceblue;
     font-family: sans-serif;
     font-size: large;
+    cursor: pointer;
 }
 #taskContianer li {
     color: white;

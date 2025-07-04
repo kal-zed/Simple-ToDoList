@@ -34,6 +34,7 @@ function addNew(){
         deletebtn.style.marginLeft="15px";
         deletebtn.style.borderRadius = "50px";
         deletebtn.style.textAlign = "center"; 
+        deletebtn.style.cursor="pointer";
 
         li.appendChild(deletebtn);
 
